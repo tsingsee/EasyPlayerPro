@@ -94,4 +94,4 @@ EasyPlayerPro虽然支持了几乎所有的流媒体协议，但是在很多场�
 
 **EasyNVR**无插件直播方案：[www.EasyNVR.com](http://www.easynvr.com)
 
-Copyright &copy; EasyDarwin Team 2012-2019
+Copyright &copy; EasyDarwin Team 2012-2021
